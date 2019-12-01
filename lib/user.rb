@@ -9,5 +9,5 @@ class User
 #   def last_name(l_name)
 #     last_name = l_name
 #   end
-  
-# end
+
+end
